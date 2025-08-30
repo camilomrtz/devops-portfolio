@@ -17,4 +17,5 @@ This repository gathers my hands-on DevOps projects, showcasing skills in **CI/C
   - **Observability**: Prometheus, Grafana.  
 - 🎯 Goal: to join as a **DevOps Engineer**, contributing to systems automation and scalability.  
 
-⭐ *This portfolio is under construction, but will grow with new projects soon.*
+
+⭐ *This portfolio is under construction, but will grow with new projects soon*
